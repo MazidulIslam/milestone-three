@@ -1,0 +1,19 @@
+To do's
+================================================
+==> Must responsive as mobile Device
+==> Bootstrap use/Plain Css (No tailwind)
+https://github.com/programming-hero-web-course2/honda-cbr-bootstrap-assignment-MazidulIslam
+1. Menu optional (no marks if done)
+2. Header banner must
+3. width 100% and color almost same.
+4. bootstrap er container
+5. Purchase clik -Modal open
+6. Features bike must have done but small 
+	underline optional. 
+7. Two honda must use gray scale color
+8. Latest news optional (no marks if done)
+9. Happy clients must with everything.
+10. Frequently asked question must
+11. Footer optional (no marks if done)
+
+Bonus Part: Add Two section
